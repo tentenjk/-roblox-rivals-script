@@ -1,8 +1,5 @@
-Here’s a **README.md** template for your Roblox Rivals Script project, styled similarly to the provided reference but tailored to your keywords and requirements. Key sections are structured to highlight functionality, installation, and the recommended website:
 
----
-
-# 🔥 Roblox Rivals Script
+# 🔥 [Roblox Rivals Script](https://rivalsscript.net/)
 
 **Enhance your Roblox Rivals experience with advanced automation, custom features, and seamless integration.**  
 **Recommended Tool:** For a no-key, user-friendly script manager with auto-updates, visit **[RivalsScript.net](https://rivalsscript.net/)** 🔗
@@ -75,8 +72,8 @@ Distributed under the MIT License. See `LICENSE.md` for details.
 ---
 
 **Need Help?**  
-- **Documentation**: Visit [RivalsScript.net/docs](https://rivalsscript.net/docs) for tutorials.
-- **Community Support**: Join our [Discord server](https://discord.gg/example).
+- **Documentation**: Visit [RivalsScript.net/docs](https://rivalsscript.net) for tutorials.
+- **Community Support**: Join our [Discord server](https://discord.gg/).
 
 ---
 
